@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geanderson Lemonte</h1>
 <h3 align="center">Sou desenvolvedor react, react native, flutter, node.js entre outras tecnologias. Hoje trabalho como desenvolvedor fullstack na Raiz Capixaba com react e node.js</h3>
-- 🔭 I’m currently working on [Raiz Capixaba](https://raizcapixaba.com.br/)
+- 🔭 I’m currently working on [Raiz](http://raiz.tec.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lemonte](https://github.com/lemonte)
 
