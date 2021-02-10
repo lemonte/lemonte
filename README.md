@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lemonte](https://github.com/lemonte)
 
-- 💬 Ask me about **React, React Native, flutter, node.js**
+- 💬 Ask me about **React, React Native e flutter**
 
 - 📫 How to reach me **geandersonlemonte.gl@gmail.com**
 
